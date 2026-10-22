@@ -15,6 +15,7 @@ This project showcases:
 
 - `index.html` — main page content and structure
 - `style.css` — site styling and layout
+- `DeMarcus_Studmire_Resume_v2.pdf` — downloadable resume
 - `README.md` — project documentation
 
 ## Preview locally
